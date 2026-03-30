@@ -1,14 +1,9 @@
 <div align="center">
 
-# Hi there, I'm Charlotte Esi Abraham 👋
+# Hi  I am Charlotte  Abraham 👋
 
 ### From raw data to real insight — I engineer the infrastructure, analyse the patterns and build the models that drive decisions.
 
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub followers](https://img.shields.io/github/followers/esiabraham?style=flat&label=Follow&color=6C3FBF)](https://github.com/esiabraham)
 
 </div>
 
